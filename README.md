@@ -1,6 +1,6 @@
 # USB_HUB_HR
 This project is for a compact USB hub. The hub uses a cable so that it is simpler and more versatile than the ordinary USB hub with a built in cable. The hub has both USB A and USB C ports for more options.
-I made this project because I needed a USB hub to plub more peripherals into my PC. I also wanted to learn how USB and USB-C works. I learned a lot such as how to implement the resistors to make USB-C work. This was a farely simple project but I did lots of research on the parts.
+I made this project because I needed a USB hub to plub more peripherals into my PC. I also wanted to learn how USB and USB-C works. I learned a lot such as how to implement the resistors to make USB-C work. This was a farely simple project but I did lots of research on the parts. Additionally I learned about PCBA.
 I followed this hackclub tutorial for some information on how to use the main IC. https://jams.hackclub.com/batch/usb-hub
 
 CAD:
