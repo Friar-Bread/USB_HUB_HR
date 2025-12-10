@@ -17,21 +17,9 @@ PCB:
 
 <img width="733" height="501" alt="USB_HUB_PCB" src="https://github.com/user-attachments/assets/fe3adecf-5a59-4b42-b60a-65363502e0b9" />
 
-
 BOM:
 | Item             | Description     | Quantity | Min Order #     | Price  |
 | ---------------- | --------------- | -------- | --------------- | ------ |
-| PCB              | Manufacturing   | 1        | 5               | $2.10  |
-| Shipping         |                 |          |                 | $3.12  |
+| PCBA             | Manufacturing   | 1        | 5               | $39.60 |
 | 3D Printed Shell | I'm printing it | 1        | 1               | $0     |
-| USB Port         |                 | 1        | 10              | $1.35  |
-| USB C Port       |                 | 4        | 10              | $2.14  |
-| SL2.1A           | Main IC         | 1        | 10              | $2.97  |
-| NSR0320MW2T1G    | Diode           | 1        | 10              | $2.02  |
-| Shipping         |                 |          |                 | $4.99  |
-| CL10A106KP8NNNC  | Capacitor       | 6        | 50              | $1.60  |
-| Shipping         |                 |          |                 | $4.42  |
-| 0603 Resistor    | 5.1K Resistor   | 2        | 100             | $2.90  |
-| 0603 Resistor    | 22K Resistor    | 6        | 100             | $2.90  |
-Total: $30.51
-Total with Tax: $32.65
+|                  |                 |          | Total with Tax: | $39.60 |
