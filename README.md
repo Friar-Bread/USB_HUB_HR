@@ -20,6 +20,6 @@ PCB:
 BOM:
 | Item             | Description     | Quantity | Min Order #     | Price  |
 | ---------------- | --------------- | -------- | --------------- | ------ |
-| PCBA             | Manufacturing   | 1        | 5               | $39.60 |
+| PCBA             | Manufacturing   | 1        | 5               | $31.61 |
 | 3D Printed Shell | I'm printing it | 1        | 1               | $0     |
-|                  |                 |          | Total with Tax: | $39.60 |
+|                  |                 |          | Total with Tax: | $31.61 |
